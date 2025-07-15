@@ -6,7 +6,7 @@ const secondLargest = (n) => {
                 temp = n[j]
                 n[j] = n[i]
                 n[i] = temp
-            }
+            } 
         }
     }
     n = Array.from (new Set(n))

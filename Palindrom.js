@@ -5,7 +5,7 @@ const Palindrom = (n) => {
     
     while(n>0){
         digit = n%10
-        reverse = reverse*10+digit
+        reverse = reverse*10+digit 
         n = Math.floor(n/10)
     }
     return reverse === isPalindrom
