@@ -9,4 +9,4 @@ var isSubsequence = function(s, t) {
     return i == s.length
 };
 s = "bb", t = "ahbgdc"
-console.log(isSubsequence(s,t)) 
+console.log(isSubsequence(s,t))
