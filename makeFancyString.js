@@ -6,7 +6,7 @@ var makeFancyString = function(s) {
         if(s[i] == s[i-1]){
             count++
         }else{
-            count =1
+            count = 1
         }
         
         if(count < 3){
