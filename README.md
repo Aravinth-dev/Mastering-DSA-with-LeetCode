@@ -1,4 +1,4 @@
-# 🚀 LeetCode Mastery – My Journey to Code Excellence
+# 🧠 Problem Solving Practice – My Daily DSA Journey
 
 Welcome to my personal LeetCode journey! 👋  
 This repository is where I consistently practice and improve my problem-solving skills by tackling coding challenges from [LeetCode](https://leetcode.com/). Each solution is written in JavaScript and includes clean, readable code and optimized logic.
