@@ -4,9 +4,9 @@ var reverseString = function(s) {
         while(i < j){
             [s[i],s[j]] = [s[j],s[i]]
             i++
-            j--
+            j-- 
         }
         return s
-};
+}; 
 s =["h","e","l","l","o"]
 console.log(reverseString(s))
